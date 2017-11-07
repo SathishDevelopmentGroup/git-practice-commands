@@ -1,1 +1,1 @@
-Hi Sathish. Welcome to Git Practice Commands...!
+Hi Sathish. Welcome to Git Practice Commands.
